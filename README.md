@@ -28,7 +28,7 @@ recomendacao-produto-grafos/
 
 Clone o repositório:
 ```bash
-git clone https://github.com/devmclara/regressao-linear-case.git
+git clone https://github.com/devRuel/regressao-linear-case.git
 cd recomendacao-produto-grafos
 ```
 
